@@ -230,24 +230,6 @@ A API utiliza as quatro operações básicas de um CRUD:
 
 ---
 
-## Estrutura do projeto
-
-```text
-projeto/
-│
-├── conexao.php
-├── chamados.php
-├── README.md
-│
-└── imagens/
-    ├── post.png
-    ├── get.png
-    ├── put.png
-    └── delete.png
-```
-
----
-
 ## Conclusão
 
 A atividade permitiu desenvolver uma API REST em PHP integrada a um banco de dados SQL, utilizando PDO e JSON.
