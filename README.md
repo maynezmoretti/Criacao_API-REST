@@ -239,7 +239,7 @@ projeto/
 ├── chamados.php
 ├── README.md
 │
-└── prints/
+└── imagens/
     ├── post.png
     ├── get.png
     ├── put.png
