@@ -1,9 +1,9 @@
 <?php
 
-$host = "192.168.10.97";
-$usuario = "postgres";
-$senha = "250318";
-$banco = "manutencao";
+$host = "SEU_IP";
+$usuario = "SEU_USUARIO";
+$senha = "SUA_SENHA";
+$banco = "SEU_BANCO";
 
 $pdo = new PDO(
     "pgsql:host=$host;port=5432;dbname=$banco",
