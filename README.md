@@ -94,7 +94,7 @@ POST /chamados.php
 
 ### Print da execução
 
-![alt text](image.png)
+![alt text](post.png)
 
 ### Resposta
 
@@ -118,7 +118,7 @@ GET /chamados.php
 
 ### Print da execução
 
-![alt text](image-1.png)
+![alt text](get.png)
 
 ### Exemplo de resposta
 
@@ -162,7 +162,7 @@ PUT /chamados.php
 
 ### Print da execução
 
-![alt text](image-2.png)
+![alt text](put.png)
 
 ### Resposta
 
@@ -194,7 +194,7 @@ DELETE /chamados.php
 
 ### Print da execução
 
-![alt text](image-3.png)
+![alt text](delete.png)
 
 ### Resposta
 
